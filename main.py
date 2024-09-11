@@ -1,2 +1,2 @@
-import pygame.examples.aliens as aliens
-aliens.main()
+import pygame.examples.scroll as scroll
+scroll.main()
